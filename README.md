@@ -6,7 +6,7 @@ And to everyone's surprise although there has been many word lists (not even wor
 
 And scrape them I will, if only because I'm getting tired of "Overleaf doesn't think my research field (neuroscience) is a real word" feedback. (Disclaimer: I was amused that the spell-checker didn't recognise many terms in *my* thesis!)
 
-However each glossary list Web is formatted differently (as if that should be a surprise after I've been trying to process machine-readable dictionaries...), _including [Wikipedia glossary lists](https://en.wikipedia.org/wiki/Category:Wikipedia_glossaries)_, may even be  formatted differently. If we're lucky most of them will be formatted as `dt-dd` definition lists; but some may be formatted as tables or just marked with `<strong>` for the terms. I had hoped that Wikidata gives some respite, but it appears that the tuples have not been set up for most of these glossaries (see e.g. https://www.wikidata.org/wiki/Q5571762). So for now each script is rather ad-hoc!
+However each glossary list Web is formatted differently (as if that should be a surprise after I've been trying to process machine-readable dictionaries...), _including [Wikipedia glossary lists](https://en.wikipedia.org/wiki/Category:Wikipedia_glossaries)_, may even be  formatted differently. If we're lucky most of them will be formatted as `dt-dd` definition lists; but some may be formatted as tables or just marked with `<strong>` for the terms. I had hoped that Wikidata gives some respite, but it appears that the tuples have not been set up for most of these glossaries (see e.g. https://www.wikidata.org/wiki/Q5571762). So for now each script is rather ad-hoc! And perhaps badly coded because my coding-fu is rusty!
 
 Also I have not figured out the copyright issues for these things, especially if they're not from Wikipedia/Wikidata.
 
@@ -19,3 +19,7 @@ I started with neuroscience, because for some reason that field crops up a lot i
 ## Translations
 
 Theoretically speaking this is possible by leveraging Wikipedia/Wikidata queries, as I'd done a few times in the past. But I'll probably do that later. Much later.
+
+## Proper integration into hunspell?
+
+Probably with https://github.com/blatinier/pyhunspell? I have no idea how to do this yet (or whether I'll do it).
