@@ -10,7 +10,7 @@ def extract_tags(url, tag):
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
     terms=[nltk.word_tokenize(t.text) for t in soup(tag)]
     merged = list(itertools.chain(*terms))
-    return set([w for w in merged if w.isalpha() and len(w) > 2])
+    return set([w.lower() for w in merged if w.isalpha() and len(w) > 2 and not(w.isupper())])
 
 # Erm, copyright? erm?
 url = u'https://www.ncbi.nlm.nih.gov/books/NBK10981/'
@@ -28,5 +28,5 @@ neurowords.update(extract_tags(url, u'strong'))
 neurowords = neurowords - english_vocab
 
 with open('neuroscience-en.txt', 'w') as file_handler:
-    for item in neurowords:
+    for item in sorted(neurowords):
         status = file_handler.write("{}\n".format(item))
