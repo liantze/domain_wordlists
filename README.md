@@ -14,7 +14,7 @@ Also I have not figured out the copyright issues for these things, especially if
 I started with neuroscience, because for some reason that field crops up a lot in Overleaf user feedback re the spell-checkers.
 
 - Neuroscience: from https://www.ncbi.nlm.nih.gov/books/NBK10981/ (Copyright??)
-- Linguistics and NLP (because that's my field :p)
+- ...more to come...
 
 ## Translations
 
