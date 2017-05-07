@@ -6,7 +6,7 @@ import hunspell
 
 hobj = hunspell.HunSpell('en_US.dic', 'en_US.aff')
 
-physicswords = set()
+geowords = set()
 # english_vocab = set(w.lower() for w in nltk.corpus.words.words())
 
 def extract_tags(url, tag):
@@ -16,63 +16,54 @@ def extract_tags(url, tag):
     return set([ (w.lower() if w.istitle() else w) for w in merged if w.isalpha() and len(w) > 2 and not(w.isupper()) and not(hobj.spell(w) or hobj.spell(w.lower())) ])
 
 
-def extract_wikipedia_cats(url):
+def extract_list_items(url):
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
     terms=[nltk.word_tokenize(t.text) for t in soup.find(id="bodyContent")(u'li')]
     merged = list(itertools.chain(*terms))
     return set([ (w.lower() if w.istitle() else w) for w in merged if w.isalpha() and len(w) > 2 and not(w.isupper()) and not(hobj.spell(w) or hobj.spell(w.lower())) ])
 
 
-urls = [b'https://en.wikipedia.org/wiki/Category:Concepts_in_physics',
-        b'https://en.wikipedia.org/wiki/Category:Mechanics',
-        b'https://en.wikipedia.org/wiki/Category:Biomechanics',
-        b'https://en.wikipedia.org/wiki/Category:Classical_mechanics',
-]
+urls = [
+        ]
 
 for url in urls:
-    physicswords.update(extract_wikipedia_cats(url))
+    geowords.update(extract_list_items(url))
 
 
 # With <dt>
-urls = [b'https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics',
-        b'https://en.wikipedia.org/wiki/Glossary_of_quantum_philosophy',
-        b'https://en.wikipedia.org/wiki/Glossary_of_string_theory',
-        b'https://en.wikipedia.org/wiki/Glossary_of_fuel_cell_terms',
+urls = [
         ]
 
 for url in urls:
-    physicswords.update(extract_tags(url, u'dt'))
+    geowords.update(extract_tags(url, u'dt'))
 
 
 # With <b>
-urls = [b'https://en.wikipedia.org/wiki/Glossary_of_physics',
-        b'https://en.wikipedia.org/wiki/Glossary_of_astronomy',
-        b'https://en.wikipedia.org/wiki/Glossary_of_classical_physic',
-        b'https://en.wikipedia.org/wiki/Glossary_of_meteoritics',
+urls = [b'https://en.wikipedia.org/wiki/Glossary_of_ecology',
         ]
 
 for url in urls:
-    physicswords.update(extract_tags(url, u'b'))
+    geowords.update(extract_tags(url, u'b'))
 
 # With <h2>
 urls = [
         ]
 
 for url in urls:
-    physicswords.update(extract_tags(url, u'h2'))
+    geowords.update(extract_tags(url, u'h2'))
 
 # With <td> siiigh
 urls = [
         ]
 
 for url in urls:
-    physicswords.update(extract_tags(url, u'td'))
+    geowords.update(extract_tags(url, u'td'))
 
 
 # Remove common English words—at least, according to nltk
 # (Might be better to compare against hunspell instead but I dunno how)
-# physicswords = physicswords - english_vocab
+# geowords = geowords - english_vocab
 
-with open('physics-en.txt', 'w') as file_handler:
-    for item in sorted(physicswords):
+with open('geo-en.txt', 'w') as file_handler:
+    for item in sorted(geowords):
         status = file_handler.write("{}\n".format(item))
