@@ -23,3 +23,8 @@ Theoretically speaking this is possible by leveraging Wikipedia/Wikidata queries
 ## Proper integration into hunspell?
 
 Probably with https://github.com/blatinier/pyhunspell? I have no idea how to do this yet (or whether I'll do it).
+
+## Acknowledgments
+
+MeSH® data for the medicine wordlist comes, without warranties, from [NLM®](https://www.nlm.nih.gov). It is downloaded on the fly, trying to get the most recent version by year. NLM® is in no way connected to this project apart from being the source of the used data. [MeSH® General Terms and Conditions](https://www.nlm.nih.gov/databases/download/terms_and_conditions_mesh.html)
+
