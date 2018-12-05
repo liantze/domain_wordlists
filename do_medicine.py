@@ -19,10 +19,11 @@ import urllib
 hobj = hunspell.HunSpell("en_US.dic", "en_US.aff")
 
 
-def extract_tags(line):
-    def in_hunspell(w):
-        return not (hobj.spell(w) or hobj.spell(w.lower()))
+def in_hunspell(w):
+    return not (hobj.spell(w) or hobj.spell(w.lower()))
 
+
+def extract_tags(line):
     terms = nltk.word_tokenize(line)
     return set(
         [
@@ -36,16 +37,28 @@ def extract_tags(line):
     )
 
 
-def parser_ascii(file_):
+def parser_ascii(file_, key):
+    leader = "{} = ".format(key)
+    start = len(leader)
     for line in file_:
         line = line.decode()
 
-        if line.startswith("MH = "):
-            yield line[len("MH = ") :]
+        # Some lines contain additional non-term information, delimited
+        # by '|'
+        line = line.split("|")[0]
+
+        if line.startswith(leader):
+            yield line[start:]
+
 
 MESH_URL_TEMPLATE = (
-    "ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/d{year}.bin"
+    "ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/{letter}{year}.bin"  # noqa
 )
+RELEVANT_KEYS = {
+    "d": ("MH", "ENTRY", "PRINT ENTRY"),
+    "c": ("NM", "SY"),
+}
+
 
 def main():
     terms = set()
@@ -57,19 +70,22 @@ def main():
     while True:
         # That year should exist at least.
         if year >= 2018:
-            try:
-                url = MESH_URL_TEMPLATE.format(year=year)
-                print("== Requesting URL: {}".format(url))
-                with urllib.request.urlopen(url) as mesh_file:
-                    print("== File downloaded, starting parsing ...")
-                    for term in parser_ascii(mesh_file):
-                        terms.update(extract_tags(term))
+            for letter, keys in RELEVANT_KEYS.items():
+                try:
+                    url = MESH_URL_TEMPLATE.format(year=year, letter=letter)
+                    print("== Requesting URL: {}".format(url))
+                    with urllib.request.urlopen(url) as mesh_file:
+                        print("== File downloaded, starting parsing ...")
 
-                print("== Parsed file, checking whether there is a previous "
-                      "version ....")
-            except urllib.error.URLError:
-                print("== Couldn't get file, trying one year before ...")
+                        # There are several keys which hold interesting terms
+                        for key in keys:
+                            for term in parser_ascii(file_=mesh_file, key=key):
+                                terms.update(extract_tags(term))
 
+                    print("== Parsed file, checking whether there is a "
+                          "previous version ....")
+                except urllib.error.URLError:
+                    print("== Couldn't get file, trying one year before ...")
             year -= 1
         else:
             if not terms:
