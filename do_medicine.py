@@ -43,31 +43,40 @@ def parser_ascii(file_):
         if line.startswith("MH = "):
             yield line[len("MH = ") :]
 
+MESH_URL_TEMPLATE = (
+    "ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/d{year}.bin"
+)
 
 def main():
     terms = set()
 
-    mesh_url_template = (
-        "ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/d{year}.bin"
-    )
-    year = datetime.date.today().year
+    # Starting one year into the future since apparently they delete the files
+    # of the current year towards the end of it
+    year = datetime.date.today().year + 1
 
     while True:
         # That year should exist at least.
         if year >= 2018:
             try:
-                url = mesh_url_template.format(year=year)
+                url = MESH_URL_TEMPLATE.format(year=year)
                 print("== Requesting URL: {}".format(url))
                 with urllib.request.urlopen(url) as mesh_file:
                     print("== File downloaded, starting parsing ...")
                     for term in parser_ascii(mesh_file):
                         terms.update(extract_tags(term))
-                break
+
+                print("== Parsed file, checking whether there is a previous "
+                      "version ....")
             except urllib.error.URLError:
                 print("== Couldn't get file, trying one year before ...")
-                year -= 1
+
+            year -= 1
         else:
-            raise Exception("Somethings wrong, maybe the base url changed?")
+            if not terms:
+                raise Exception("Somethings wrong, maybe the base url changed?")
+            else:
+                print("== Arrived at 2018, there shouldn't be older files.")
+            break
 
     wordlist_file_name = "medicine-en.txt"
     print("== Writing wordlist to: {}".format(wordlist_file_name))

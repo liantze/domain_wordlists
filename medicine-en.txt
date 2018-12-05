@@ -59,6 +59,7 @@ XIIIa
 XIIa
 XIa
 abatacept
+abciximab
 abdominis
 abdominoplasty
 abducens
@@ -87,6 +88,7 @@ absorptiometry
 abyssi
 acalculous
 acalypha
+acamprosate
 acanthaceae
 acanthamoeba
 acanthias
@@ -305,6 +307,7 @@ adrenomedullin
 adultorum
 adventitia
 aedes
+aegilops
 aegle
 aequorin
 aerobiosis
@@ -319,6 +322,7 @@ aeropyrum
 aeruginosa
 aesculus
 aethiops
+afatinib
 affective
 afferents
 afibrinogenemia
@@ -328,6 +332,7 @@ aflatoxins
 africana
 africanus
 agalactiae
+agammaglobulinaemia
 agammaglobulinemia
 agapornis
 agaricales
@@ -393,6 +398,7 @@ aldehydic
 aldicarb
 aldolase
 aldosterone
+alefacept
 alemtuzumab
 alendronate
 alethinophidia
@@ -405,6 +411,7 @@ alfaxalone
 alfentanil
 algestone
 alginates
+alginic
 alginolyticus
 alicyclic
 alicyclobacillus
@@ -412,6 +419,7 @@ aliivibrio
 alisma
 alismataceae
 alismatales
+alitretinoin
 alkadienes
 alkalosis
 alkamides
@@ -434,6 +442,7 @@ allelopathy
 allesthesia
 allethrin
 allium
+allogeneic
 allografts
 alloimmune
 allolevivirus
@@ -478,6 +487,7 @@ alteromonas
 althaea
 altretamine
 alu
+aluminosilicate
 alvei
 alveolata
 alveolectomy
@@ -520,6 +530,7 @@ amidinotransferases
 amido
 amidohydrolases
 amidophosphoribosyltransferase
+amifampridine
 amifostine
 amikacin
 amiloride
@@ -563,6 +574,7 @@ aminosalicylic
 aminotransferase
 aminotransferases
 amiodarone
+amisulpride
 amitriptyline
 amitrole
 amlodipine
@@ -627,6 +639,7 @@ anaplasmosis
 anaplastic
 anastomosis
 anastomotic
+anastrozole
 ancitabine
 ancrod
 ancylostoma
@@ -694,6 +707,7 @@ anhydrases
 anhydride
 anhydrides
 ani
+anidulafungin
 anilides
 anilino
 animalis
@@ -787,6 +801,7 @@ antimalarials
 antimanic
 antimetabolites
 antimitotic
+antimoniate
 antimutagenic
 antimycin
 antinematodal
@@ -873,6 +888,7 @@ apperception
 appetitive
 apraxia
 apraxias
+aprepitant
 aprindine
 aprotinin
 aptamer
@@ -970,6 +986,7 @@ arsenicals
 arsenite
 arsenites
 arsphenamine
+artemether
 artemia
 artemisia
 artemisinins
@@ -979,6 +996,7 @@ arteriovenous
 arteritis
 arteriviridae
 arterivirus
+artesunate
 arthralgia
 arthritidis
 arthrobacter
@@ -1077,6 +1095,7 @@ atractylis
 atractylodes
 atractyloside
 atracurium
+atrasentan
 atraumatic
 atrazine
 atresia
@@ -1100,6 +1119,7 @@ aurodox
 aurothioglucose
 aurovertins
 australis
+austrobaileyales
 autacoids
 autoanalysis
 autoantibodies
@@ -1140,6 +1160,7 @@ axillary
 axillofemoral
 axin
 axinella
+axitinib
 axonal
 axonemal
 axoneme
@@ -1247,6 +1268,7 @@ basidiomycota
 basigin
 basilar
 basilicum
+basiliximab
 basolateral
 basophil
 basophilic
@@ -1261,6 +1283,7 @@ bauhinia
 baumannii
 bdellovibrio
 beauveria
+becaplermin
 beclomethasone
 bednets
 beggiatoa
@@ -1366,6 +1389,7 @@ betle
 betula
 betulaceae
 bevacizumab
+bexarotene
 bezafibrate
 bezoars
 bibenzyls
@@ -1419,6 +1443,7 @@ biometric
 biometry
 biomimetic
 biomimetics
+biomineralization
 biomolecular
 biomphalaria
 biopharmaceutics
@@ -1505,6 +1530,7 @@ borohydrides
 boronic
 borrelia
 bortezomib
+bosentan
 boswellia
 bothrops
 botrytis
@@ -1595,6 +1621,7 @@ brucellosis
 bruch
 brugada
 brugia
+brugmansia
 brunner
 bruxism
 bryonia
@@ -1675,6 +1702,7 @@ buxaceae
 buxus
 byssinosis
 byssochlamys
+cabergoline
 cabo
 cachexia
 cacodylic
@@ -1806,9 +1834,11 @@ carbachol
 carbadox
 carbamates
 carbamazepine
+carbamide
 carbamoyl
 carbamoyltransferase
 carbamyl
+carbamylation
 carbanilides
 carbapenems
 carbaryl
@@ -1900,6 +1930,7 @@ carthamus
 carticaine
 carubicin
 carum
+carvedilol
 carya
 caryophyllaceae
 caryophyllales
@@ -1911,6 +1942,7 @@ caseosa
 casimiroa
 caspase
 caspases
+caspofungin
 castanospermum
 castellanii
 castleman
@@ -1974,6 +2006,8 @@ cefadroxil
 cefamandole
 cefatrizine
 cefazolin
+cefdinir
+cefepime
 cefixime
 cefmenoxime
 cefmetazole
@@ -1985,6 +2019,7 @@ cefotiam
 cefoxitin
 cefsulodin
 ceftazidime
+ceftibuten
 ceftizoxime
 ceftriaxone
 cefuroxime
@@ -2165,6 +2200,7 @@ chlormerodrin
 chlormethiazole
 chlormezanone
 chloroacetates
+chloroacetylcarbamoyl
 chloroaniline
 chlorobenzenes
 chlorobenzoates
@@ -2181,6 +2217,7 @@ chloromercuribenzoates
 chloromercurinitrophenols
 chloromethyl
 chlorophenols
+chlorophyceae
 chlorophyllides
 chlorophyta
 chloroprene
@@ -2324,7 +2361,9 @@ chytridiomycota
 cialit
 cicer
 cichlids
+ciclopirox
 cicuta
+cidofovir
 ciguatera
 ciguatoxins
 cilastatin
@@ -2332,6 +2371,7 @@ cilazapril
 ciliary
 ciliopathies
 ciliophora
+cilostazol
 cimetidine
 cimicidae
 cimicifuga
@@ -2399,8 +2439,10 @@ clione
 clioquinol
 clitoria
 cloacin
+clobazam
 clobetasol
 clodronic
+clofarabine
 clofazimine
 clofenapate
 clofibrate
@@ -2414,6 +2456,7 @@ clonorchiasis
 clonorchis
 clopamide
 clopenthixol
+clopidogrel
 clopidol
 cloprostenol
 clorazepate
@@ -2673,6 +2716,7 @@ crinivirus
 crinum
 crispatus
 crithidia
+crizotinib
 crocidolite
 crohn
 cromakalim
@@ -2717,6 +2761,7 @@ cryptosporidiosis
 cryptosporidium
 cryptoxanthins
 crystallins
+crystalloid
 ctenocephalides
 ctenophora
 cubital
@@ -2764,6 +2809,7 @@ cyanophora
 cyanosis
 cyanothece
 cyathus
+cyberbullying
 cycadopsida
 cycas
 cycasin
@@ -2875,6 +2921,7 @@ cytochromes
 cytodiagnosis
 cytogenetic
 cytogenetics
+cytoglobin
 cytokine
 cytokinesis
 cytokinins
@@ -2898,6 +2945,7 @@ cytotoxicity
 cytotoxins
 dabigatran
 dacarbazine
+daclizumab
 dacryocystitis
 dacryocystorhinostomy
 dactinomycin
@@ -2911,6 +2959,8 @@ danazol
 dansyl
 dantrolene
 daphnia
+daphniphyllaceae
+daphniphyllum
 dapsone
 daptomycin
 darbepoetin
@@ -2937,6 +2987,7 @@ debranching
 debrisoquin
 decalcification
 decamethonium
+decanoate
 decanoates
 decanoic
 decapoda
@@ -2948,6 +2999,7 @@ decarboxylation
 decerebrate
 decidua
 deciduoma
+decitabine
 decompressive
 deconditioning
 decoquinate
@@ -2957,7 +3009,9 @@ decyclizing
 dedifferentiation
 defecography
 defensins
+deferasirox
 deferens
+deferiprone
 deferoxamine
 deformability
 deformans
@@ -3059,6 +3113,7 @@ derris
 desaturase
 desaturases
 descemet
+desflurane
 desipramine
 deslanoside
 desmidiales
@@ -3081,6 +3136,7 @@ desulfitobacterium
 desulfotomaculum
 desulfovibrio
 desulfovibrionaceae
+desulfovibrionales
 desulfuricans
 desulfurococcaceae
 desulfurococcales
@@ -3154,6 +3210,7 @@ dibutyryl
 dicamba
 dicarbethoxydihydrocollidine
 dicarboxylic
+dicentra
 dichelobacter
 dichlorides
 dichloroacetic
@@ -3356,6 +3413,7 @@ disoproxil
 disopyramide
 dispar
 dispensatories
+dispensatory
 disruptors
 dissecans
 dissociative
@@ -3365,6 +3423,7 @@ disulfide
 disulfides
 disulfiram
 disulfoton
+diterpene
 diterpenes
 dithiazanine
 dithiocarbamates
@@ -3384,6 +3443,7 @@ dizocilpine
 dizygotic
 dobesilate
 dobutamine
+docetaxel
 docosahexaenoic
 dodecandra
 dodecanol
@@ -3393,9 +3453,11 @@ dolichos
 dolorosa
 domestica
 domperidone
+donepezil
 donohue
 donovani
 dopaminergic
+doripenem
 dorsalis
 dorsomedial
 dosimetry
@@ -3417,6 +3479,7 @@ drimia
 drimys
 dromaiidae
 dronabinol
+dronedarone
 droperidol
 drosera
 droseraceae
@@ -3548,6 +3611,7 @@ ectromelia
 ectropion
 eczematous
 edar
+edaravone
 edeine
 edentulous
 edetic
@@ -3558,6 +3622,7 @@ efavirenz
 effector
 effectors
 eflornithine
+egocentrism
 egtazic
 ehrlichia
 ehrlichiosis
@@ -3711,6 +3776,7 @@ endplate
 endrin
 enediynes
 enflurane
+enfuvirtide
 enkephalin
 enkephalins
 enophthalmos
@@ -3720,6 +3786,7 @@ enoxaparin
 enoximone
 enprostil
 enriettii
+enrofloxacin
 entamoeba
 entamoebiasis
 enteral
@@ -3823,6 +3890,7 @@ epithelioid
 epitope
 epitopes
 epizootic
+eplerenone
 epoetin
 eponyms
 epoprostenol
@@ -3831,6 +3899,8 @@ epoxide
 epoxymethano
 epsilonproteobacteria
 epsilonretrovirus
+eptifibatide
+equartevirus
 equi
 equid
 equidae
@@ -3867,6 +3937,7 @@ eriocaulaceae
 eriodictyon
 eriogonum
 erlotinib
+ertapenem
 erucic
 erwinia
 eryngium
@@ -3988,9 +4059,11 @@ etli
 etodolac
 etomidate
 etoposide
+etoricoxib
 etorphine
 etretinate
 eubacterium
+eucalyptol
 euchromatin
 eucoccidiida
 eucommiaceae
@@ -4030,6 +4103,7 @@ exchangers
 excimer
 excipients
 excitatory
+exenatide
 exenteration
 exfoliatins
 exfoliative
@@ -4093,6 +4167,7 @@ falciparum
 falconiformes
 fallopia
 fallot
+famciclovir
 famotidine
 fanconi
 farber
@@ -4115,6 +4190,7 @@ favism
 favosa
 febuxostat
 feijoa
+felbamate
 felidae
 feliformia
 felis
@@ -4193,6 +4269,7 @@ fibrosus
 ficain
 ficoll
 ficusin
+fidaxomicin
 fiducial
 figural
 filamins
@@ -4214,7 +4291,7 @@ firmus
 fischeri
 fissured
 fixators
-flacourtiaceae
+flacourtia
 flagellin
 flammulina
 flavanones
@@ -4239,6 +4316,7 @@ fleroxacin
 flexibacter
 flexiviridae
 flexneri
+flexural
 flocculation
 floorcoverings
 florigen
@@ -4288,6 +4366,7 @@ flurothyl
 fluspirilene
 flutamide
 fluticasone
+fluvastatin
 fluvoxamine
 fms
 foci
@@ -4297,7 +4376,9 @@ folate
 follicular
 folliculitis
 follistatin
+fomepizole
 fomites
+fondaparinux
 fonofos
 fontan
 fontanelles
@@ -4318,6 +4399,7 @@ formiminoglutamic
 formocresols
 formoterol
 formularies
+formulary
 formycins
 formyl
 formyltetrahydrofolates
@@ -4337,12 +4419,10 @@ fractionation
 fragaria
 fragi
 fragilis
-fragrans
 frameshift
 frameshifting
 framycetin
 francisella
-frangula
 frankia
 frasier
 fraxinus
@@ -4374,6 +4454,8 @@ fukushima
 fulgidus
 fullerenes
 fulminans
+fulvestrant
+fumagillol
 fumarate
 fumarates
 fumaria
@@ -4408,6 +4490,7 @@ fusidic
 fusobacteria
 fusobacteriaceae
 fusobacterium
+gabapentin
 gabexate
 gadiformes
 gadus
@@ -4489,9 +4572,11 @@ gastrostomy
 gastrula
 gastrulation
 gatekeeping
+gatifloxacin
 gattii
 gaultheria
 gefarnate
+gefitinib
 geigeria
 gelatinases
 gelatinosa
@@ -4499,6 +4584,7 @@ gelsemium
 gelsolin
 gemella
 gemfibrozil
+gemifloxacin
 geminin
 geminiviridae
 genioplasty
@@ -4683,6 +4769,7 @@ glycylglycine
 glycyrrhetinic
 glycyrrhiza
 glycyrrhizic
+glymphatic
 glyoxal
 glyoxylates
 glyoxysomes
@@ -4711,6 +4798,7 @@ gracilaria
 gracilis
 gramicidin
 granisetron
+granulins
 granulocyte
 granulocytes
 granuloma
@@ -4823,6 +4911,7 @@ haptens
 haptoglobins
 haptophyta
 harderian
+harmala
 harmaline
 harmine
 harpagophytum
@@ -5007,6 +5096,7 @@ heterozygote
 heuchera
 hevea
 hexachlorobenzene
+hexachlorocyclohexane
 hexachlorophene
 hexadimethrine
 hexafluoride
@@ -5090,6 +5180,7 @@ homocystine
 homocystinuria
 homogentisate
 homogentisic
+homoharringtonine
 homolog
 homologue
 homology
@@ -5140,7 +5231,6 @@ hydrazones
 hydroa
 hydrobiology
 hydrobromic
-hydrobromide
 hydrocele
 hydrocharitaceae
 hydrochloric
@@ -5386,10 +5476,12 @@ hysteroscopy
 hysterotomy
 ialpha
 iatrogenic
+ibandronic
 ibogaine
 ibotenic
 ichthyosiform
 ichthyosis
+icodextrin
 ictaluri
 ictaluridae
 ictalurivirus
@@ -5434,13 +5526,13 @@ imines
 imino
 imipenem
 imipramine
+imiquimod
 immitis
 immunoadhesins
 immunoassay
 immunoblastic
 immunoblotting
 immunochemistry
-immunochromatography
 immunocompetence
 immunocompromised
 immunoconglutinins
@@ -5657,6 +5749,7 @@ ipratropium
 iprindole
 iproniazid
 ipronidazole
+irbesartan
 iridaceae
 iridectomy
 iridocorneal
@@ -5665,6 +5758,7 @@ iridoid
 iridoids
 iridoviridae
 iridovirus
+irinotecan
 iritis
 irrigants
 irritancy
@@ -5733,6 +5827,7 @@ isoxazoles
 isoxsuprine
 isradipine
 itraconazole
+ivabradine
 ivermectin
 ixodes
 ixodidae
@@ -5889,6 +5984,7 @@ labyrinthitis
 lacazia
 laccaria
 laccase
+lacosamide
 lacrimal
 lactalbumin
 lactamica
@@ -5928,6 +6024,7 @@ laminin
 laminoplasty
 lamins
 lamivudine
+lamotrigine
 lanatosides
 lancelets
 lange
@@ -5937,6 +6034,7 @@ lansoprazole
 lantana
 lanthanoid
 laparoscopes
+lapatinib
 lari
 larix
 laron
@@ -5952,6 +6050,7 @@ laryngoscopy
 laryngostenosis
 lasalocid
 lata
+latanoprost
 laterality
 lathyrism
 lathyrus
@@ -5972,6 +6071,7 @@ lectin
 lectins
 lecythidaceae
 ledum
+leflunomide
 leghemoglobin
 legionella
 legionellaceae
@@ -5986,7 +6086,9 @@ leishmaniasis
 leishmaniavirus
 lemierre
 lemuridae
+lenalidomide
 lennox
+lenograstim
 lente
 lentigo
 lentinan
@@ -6016,7 +6118,9 @@ leptothrix
 leptotrichia
 leriche
 lespedeza
+letrozole
 leu
+leucanthemum
 leucogenenol
 leucomycins
 leuconostoc
@@ -6051,14 +6155,17 @@ leuzea
 levalbuterol
 levallorphan
 levamisole
+levetiracetam
 levisticum
 leviviridae
 levivirus
 levobunolol
+levobupivacaine
 levocardia
 levodopa
 levofloxacin
 levoleucovorin
+levomilnacipran
 levonorgestrel
 levopropoxyphene
 levorphanol
@@ -6100,7 +6207,6 @@ linagliptin
 linaria
 lincomycin
 lincosamides
-lindane
 lindera
 linezolid
 linitis
@@ -6112,6 +6218,7 @@ lipases
 lipectomy
 lipedema
 lipidoses
+lipoabdominoplasty
 lipoamide
 lipoatrophic
 lipoblastoma
@@ -6121,6 +6228,7 @@ lipodystrophy
 lipoferum
 lipofuscin
 lipogenesis
+lipoglycopeptides
 lipogranulomatosis
 lipoid
 lipoidica
@@ -6194,7 +6302,6 @@ lorazepam
 lordosis
 lorisidae
 losartan
-loteae
 loteprednol
 louping
 lovastatin
@@ -6210,6 +6317,7 @@ lugdunensis
 lujo
 lumbosacral
 lumbricoides
+lumefantrine
 lumican
 lumicolchicines
 luminol
@@ -6234,6 +6342,7 @@ lyase
 lyases
 lychnis
 lycium
+lycopene
 lycopersicon
 lycopodiaceae
 lycopodium
@@ -6317,6 +6426,7 @@ maculosus
 madhuca
 madin
 madurella
+maesa
 maf
 mafenide
 magainins
@@ -6353,12 +6463,14 @@ malonates
 malondialdehyde
 malonyl
 malpighiaceae
+malpighiales
 malpighian
 maltophilia
 malunited
 malus
 malva
 malvaceae
+malvales
 mamastrovirus
 mammaglobin
 mammaplasty
@@ -6397,6 +6509,7 @@ manubrium
 maprotiline
 marantaceae
 marasmius
+maraviroc
 marburg
 marburgvirus
 marcescens
@@ -6521,9 +6634,9 @@ melo
 melongena
 melopsittacus
 melorheostosis
+meloxicam
 melphalan
 memantine
-membranaceus
 membranoproliferative
 menarche
 mendocina
@@ -6543,6 +6656,7 @@ menkes
 menogaril
 menorrhagia
 menotropins
+mentalization
 mentha
 mepartricin
 meperidine
@@ -6563,6 +6677,7 @@ mercuribenzoates
 meristem
 merkel
 mermithoidea
+meropenem
 merozoite
 merozoites
 mersalyl
@@ -6662,6 +6777,7 @@ methanosarcina
 methanosarcinaceae
 methanosarcinales
 methanospirillum
+methantheline
 methapyrilene
 methaqualone
 methazolamide
@@ -6764,6 +6880,7 @@ meynert
 mezlocillin
 mianserin
 mibefradil
+micafungin
 micellar
 micelles
 miconazole
@@ -6841,6 +6958,7 @@ microvirus
 midazolam
 midbrain
 midexpiratory
+midkine
 midline
 midodrine
 midpiece
@@ -6856,6 +6974,7 @@ milleri
 millets
 millettia
 millon
+milnacipran
 milrinone
 miltiorrhiza
 mimicus
@@ -6876,6 +6995,7 @@ miotics
 mirabilis
 mirex
 mirizzi
+mirtazapine
 misonidazole
 misoprostol
 missense
@@ -6891,9 +7011,11 @@ mitosporic
 mitotane
 mitoxantrone
 mitragyna
+mivacurium
 mobiluncus
 mobius
 moclobemide
+modafinil
 mohs
 molindone
 molineoidae
@@ -6986,6 +7108,7 @@ motilin
 mougeotia
 moxalactam
 moxibustion
+moxifloxacin
 moxisylyte
 moyamoya
 mucin
@@ -7148,6 +7271,7 @@ myomectomy
 myometrium
 myopathies
 myopathy
+myopericytoma
 myoporaceae
 myoporum
 myosarcoma
@@ -7170,8 +7294,9 @@ myristica
 myristicaceae
 myristoylated
 myroxylon
-myrsinaceae
+myrsine
 myrtaceae
+myrtales
 myrtillus
 myrtus
 mytilidae
@@ -7186,6 +7311,7 @@ myxomycetes
 myxosarcoma
 myxovirus
 myxozoa
+nabumetone
 nadolol
 nadroparin
 naegleria
@@ -7245,6 +7371,7 @@ nasopharyngitis
 nasopharynx
 natalizumab
 natamycin
+nateglinide
 natriuresis
 natriuretic
 natronobacterium
@@ -7381,6 +7508,7 @@ neurofilament
 neurogenesis
 neurogenic
 neuroglia
+neuroglobin
 neurogranin
 neuroimaging
 neuroimmunomodulation
@@ -7389,6 +7517,7 @@ neuroleptanalgesia
 neuroleptic
 neurolinguistic
 neurologic
+neurolymphomatosis
 neuroma
 neuromuscular
 neuromyelitis
@@ -7523,6 +7652,7 @@ nitrosourea
 nitrous
 nitrovin
 nitroxinil
+nivolumab
 nizatidine
 nocardia
 nocardiaceae
@@ -7701,6 +7831,7 @@ officinalis
 ofloxacin
 okadaic
 olacaceae
+olanzapine
 oldenlandia
 olea
 oleaceae
@@ -7826,6 +7957,7 @@ organotin
 organum
 orientia
 origanum
+orlistat
 ornidazole
 ornipressin
 ornithine
@@ -7950,6 +8082,7 @@ oxalate
 oxalates
 oxalic
 oxalidaceae
+oxaliplatin
 oxaloacetates
 oxaloacetic
 oxalobacter
@@ -7957,6 +8090,7 @@ oxalobacteraceae
 oxamic
 oxamniquine
 oxandrolone
+oxaprozin
 oxathiins
 oxazepam
 oxazepines
@@ -7965,6 +8099,7 @@ oxazocines
 oxazoles
 oxazolidinones
 oxazolone
+oxcarbazepine
 oxepins
 oxidases
 oxidative
@@ -7973,6 +8108,7 @@ oxidoreductase
 oxidoreductases
 oximes
 oximetry
+oxindoles
 oxo
 oxocins
 oxolinic
@@ -8047,7 +8183,9 @@ palmitic
 palmitoyl
 palmitoylcarnitine
 palmoplantar
+palonosetron
 palyam
+pamidronate
 pamoate
 panax
 pancoast
@@ -8064,14 +8202,17 @@ panencephalitis
 paneth
 panicum
 paniscus
+panitumumab
 panleukopenia
 panniculitis
+panobinostat
 panophthalmitis
 pansporablastina
 panstrongylus
 pantetheine
 panthera
 pantoea
+pantoprazole
 pantothenate
 pantothenic
 pantotrophus
@@ -8653,17 +8794,20 @@ pinacidil
 pinctada
 pindolol
 pineal
+pinealectomy
 pinealoma
 pinellia
 pinguecula
 pinocytosis
 pinta
 pinus
+pioglitazone
 pipecolic
 pipecuronium
 pipemidic
 piperaceae
 piperacillin
+piperazine
 piperazines
 piperidines
 piperidones
@@ -8725,6 +8869,7 @@ plastica
 plasticizers
 plastid
 plastids
+plastination
 plastocyanin
 plastoquinone
 plateletpheresis
@@ -8793,10 +8938,11 @@ pointes
 pokeweed
 polarimetry
 polarography
+polidocanol
 poliovirus
 poloxalene
 poloxamer
-polyacetylenes
+polyacetylene
 polyadenylation
 polyalthia
 polyamines
@@ -8841,6 +8987,7 @@ polyhydroxyethyl
 polyisoprenyl
 polyketide
 polyketides
+polylactic
 polylysine
 polymenophorea
 polymerase
@@ -8896,6 +9043,7 @@ polyubiquitin
 polyuria
 polyvinylpyridine
 polyvinyls
+polyynes
 pombe
 pomona
 poncirus
@@ -8945,6 +9093,7 @@ postphlebitic
 postpoliomyelitis
 postrema
 postthrombotic
+posttraumatic
 postweaning
 potamogetonaceae
 potentiation
@@ -8963,6 +9112,7 @@ poxviridae
 practolol
 prajmaline
 pralidoxime
+pramipexole
 pranobex
 prasugrel
 prausnitzii
@@ -8987,6 +9137,7 @@ preganglionic
 pregnadienediols
 pregnadienes
 pregnadienetriols
+pregnane
 pregnanediol
 pregnanediones
 pregnanes
@@ -9008,6 +9159,8 @@ prenylamine
 prenylation
 preoptic
 prephenate
+preprint
+preprints
 preprosthetic
 prepulse
 presbycusis
@@ -9033,6 +9186,7 @@ probiotics
 proboscidea
 probucol
 procainamide
+procalcitonin
 procarbazine
 procaterol
 prochlorococcus
@@ -9041,6 +9195,7 @@ prochlorophytes
 prochlorothrix
 prochlorperazine
 procollagen
+proctectomy
 proctitis
 proctocolectomy
 proctocolitis
@@ -9059,6 +9214,7 @@ progeria
 proglucagon
 proglumide
 prognathism
+progranulins
 proguanil
 proinsulin
 projective
@@ -9093,6 +9249,7 @@ properdin
 prophages
 prophase
 propidium
+propinquus
 propiolactone
 propionate
 propionates
@@ -9233,7 +9390,6 @@ psyllium
 pteridaceae
 pteridines
 pteridium
-pteridophyta
 pterins
 pteris
 pterocarpans
@@ -9336,6 +9492,7 @@ pyroglutamate
 pyroglyphidae
 pyrola
 pyrolaceae
+pyrolysis
 pyrones
 pyronine
 pyrophosphatase
@@ -9372,6 +9529,7 @@ quetiapine
 quillaja
 quinacrine
 quinaldines
+quinapril
 quinazolines
 quinazolinones
 quinestrol
@@ -9446,6 +9604,7 @@ ranitidine
 ranolazine
 ranula
 ranunculaceae
+ranunculales
 ranunculus
 ranvier
 rapa
@@ -9465,6 +9624,7 @@ reagins
 reassortant
 reauthorization
 rebasing
+reboxetine
 recombinant
 recombinase
 recombinases
@@ -9488,6 +9648,7 @@ rehydration
 reinhardtii
 reishi
 relaxin
+remifentanil
 remineralization
 remoxipride
 remyelination
@@ -9515,6 +9676,7 @@ resorcinols
 respirovirus
 responders
 restenosis
+resveratrol
 resynchronization
 rete
 reticular
@@ -9650,6 +9812,7 @@ ricinus
 rickettsia
 rickettsiaceae
 rickettsial
+rickettsiales
 rickettsieae
 rickettsii
 rickettsiosis
@@ -9658,14 +9821,17 @@ riemerella
 rifabutin
 rifampin
 rifamycins
+rifaximin
 rigidus
+rilmenidine
 rilpivirine
 riluzole
 rimantadine
+rimonabant
 rimosus
 rinderpest
 rioprostil
-risedronate
+risedronic
 risperidone
 risticii
 ristocetin
@@ -9677,6 +9843,7 @@ rivaroxaban
 rivastigmine
 robenidine
 robinia
+rocuronium
 rodentia
 rodenticides
 rodentium
@@ -9687,15 +9854,18 @@ rollinia
 roma
 ronidazole
 roniviridae
+ropivacaine
 rorippa
 rosacea
 rosaceae
 rosanae
 rosaniline
+roscovitine
 rosea
 roseobacter
 roseolovirus
 roseopersicina
+rosiglitazone
 rosmarinus
 rosuvastatin
 rotarod
@@ -9732,6 +9902,7 @@ rutin
 ryania
 ryanodine
 saccades
+saccharated
 saccharomyces
 saccharomycetales
 saccharomycopsis
@@ -9799,6 +9970,7 @@ sapium
 sapogenins
 saponaria
 saponins
+saporins
 saposins
 sapotaceae
 sapovirus
@@ -9832,6 +10004,7 @@ satureja
 saururaceae
 saussurea
 saxifragaceae
+saxifragales
 saxitoxin
 scabiei
 scandentia
@@ -9894,6 +10067,7 @@ secologanin
 secosteroids
 secoviridae
 secretagogins
+secretagogues
 secretases
 secretin
 secretoglobins
@@ -9974,6 +10148,7 @@ setariasis
 sevelamer
 sevenless
 seveso
+sevoflurane
 sezary
 shab
 shal
@@ -10015,11 +10190,13 @@ silicones
 silicotuberculosis
 silorane
 siloxanes
+silybin
 silymarin
 simarouba
 simaroubaceae
 simazine
 simbu
+simendan
 simeprevir
 simethicone
 simplexvirus
@@ -10066,6 +10243,7 @@ sofosbuvir
 solanaceae
 solanacearum
 solanaceous
+solanales
 solanine
 solanum
 solfataricus
@@ -10087,7 +10265,9 @@ somnus
 sonchus
 sonication
 sonnei
+sonography
 sophora
+sorafenib
 sorbic
 sorbitol
 sorbose
@@ -10221,7 +10401,6 @@ stenotrophomonas
 stephania
 stercoralis
 sterculia
-sterculiaceae
 stereocilia
 stereognosis
 stereoisomerism
@@ -10351,6 +10530,7 @@ succinyldiaminopimelate
 sucralfate
 sucrase
 sufentanil
+sugammadex
 suid
 suipoxvirus
 suis
@@ -10371,6 +10551,7 @@ sulfamethoxazole
 sulfamethoxypyridazine
 sulfamonomethoxine
 sulfamoxole
+sulfanilamide
 sulfanilamides
 sulfanilic
 sulfaphenazole
@@ -10379,6 +10560,7 @@ sulfaquinoxaline
 sulfasalazine
 sulfatase
 sulfatases
+sulfathiazole
 sulfathiazoles
 sulfatidosis
 sulfenic
@@ -10412,6 +10594,7 @@ suloctidil
 sulpiride
 sumatriptan
 sumoylation
+sunitinib
 sunscreening
 superantigens
 supercritical
@@ -10438,6 +10621,7 @@ suramin
 suregada
 surfactants
 surgicenters
+survivin
 survivorship
 sus
 susac
@@ -10471,6 +10655,7 @@ synchrotrons
 syncytial
 syndactyly
 syndecans
+syndemic
 synechococcus
 synechocystis
 synephrine
@@ -10521,11 +10706,13 @@ talipes
 tamaricaceae
 tamarindus
 tamponade
+tamsulosin
 tamus
 tanacetum
 tankyrases
 tannerella
 tannins
+tapentadol
 taq
 taraxacum
 tarazu
@@ -10552,6 +10739,7 @@ taxodium
 taxoids
 taxus
 taylorella
+tazobactam
 tectiviridae
 tectorial
 tectospinal
@@ -10563,6 +10751,7 @@ teichoic
 teicoplanin
 telangiectasia
 telangiectasis
+telbivudine
 telefacsimile
 telemedicine
 telencephalic
@@ -10572,6 +10761,7 @@ telepathology
 teleradiology
 telerehabilitation
 teletherapy
+telmisartan
 telocytes
 telomerase
 telomere
@@ -10580,6 +10770,7 @@ telophase
 telopodes
 temazepam
 temefos
+temozolomide
 temporaria
 temporomandibular
 tenacibaculum
@@ -10587,6 +10778,7 @@ tenascin
 tendineae
 tendinopathy
 tenebrio
+tenecteplase
 tenella
 tenericutes
 teniposide
@@ -10609,10 +10801,12 @@ teratoid
 teratology
 teratoma
 teratozoospermia
+terbinafine
 terbutaline
 terephthalates
 terfenadine
 teriparatide
+terlipressin
 terminalia
 termitomyces
 terpenes
@@ -10733,6 +10927,7 @@ thevetia
 thiabendazole
 thiadiazines
 thiadiazoles
+thiamethoxam
 thiamin
 thiamphenicol
 thiamylal
@@ -10833,6 +11028,7 @@ thuja
 thuringiensis
 thylakoid
 thylakoids
+thymalfasin
 thymectomy
 thymelaeaceae
 thymic
@@ -10855,12 +11051,15 @@ thyrotrophs
 thyrotropin
 thyroxine
 thysanoptera
+tiagabine
 tiapamil
 tiapride
+ticagrelor
 ticarcillin
 ticlopidine
 ticrynafen
 tietze
+tigecycline
 tiletamine
 tilia
 tiliaceae
@@ -10872,8 +11071,11 @@ tinctorius
 tinea
 tinidazole
 tinospora
+tinzaparin
 tiopronin
 tiotropium
+tirapazamine
+tirofiban
 titration
 titrimetry
 tobamovirus
@@ -10888,12 +11090,14 @@ togaviridae
 tolazamide
 tolazoline
 tolbutamide
+tolcapone
 tolmetin
 tolnaftate
 tolonium
 tolperisone
 tolterodine
 toluidines
+tolvaptan
 tomatine
 tombusviridae
 tombusvirus
@@ -10901,12 +11105,14 @@ tonometry
 tonsillar
 tonus
 toothbrushing
+topiramate
 topoisomerase
 topoisomerases
 topotecan
 toremifene
 torovirus
 torsades
+torsemide
 torticollis
 torulaspora
 tospovirus
@@ -10934,6 +11140,7 @@ toxoids
 toxoplasma
 toxoplasmosis
 toyocamycin
+trabectedin
 trabeculectomy
 tracheitis
 trachelectomy
@@ -11072,6 +11279,7 @@ trichotillomania
 trichuriasis
 trichuris
 trichuroidea
+triclabendazole
 triclosan
 tricuspid
 tricyclic
@@ -11120,6 +11328,7 @@ trinucleotide
 triolein
 triose
 trioses
+trioxide
 trioxsalen
 triparanol
 tripelennamine
@@ -11150,6 +11359,7 @@ trkA
 trkB
 trkC
 trochlear
+troglitazone
 troglotrematidae
 troleandomycin
 trombiculiasis
@@ -11166,6 +11376,7 @@ tropica
 tropicalis
 tropicamide
 tropici
+tropisetron
 tropocollagen
 tropoelastin
 tropolone
@@ -11262,6 +11473,7 @@ uncaria
 uncoating
 undaria
 undecylenic
+underactive
 underserved
 unerupted
 unilamellar
@@ -11338,17 +11550,20 @@ vaccaria
 vaccinia
 vacciniforme
 vaccinium
+vaccinology
 vacuolar
 vaginalis
 vaginismus
 vaginitis
 vaginosis
 vagotomy
+valacyclovir
 valerate
 valerates
 valerianaceae
 valerianella
 valga
+valganciclovir
 valgum
 valgus
 valine
@@ -11401,6 +11616,7 @@ vecuronium
 veillonella
 veillonellaceae
 velopharyngeal
+vemurafenib
 vena
 venae
 venereology
@@ -11436,6 +11652,7 @@ versicans
 versicolor
 vertebrobasilar
 vertebroplasty
+verteporfin
 verticillium
 vesicatoria
 vesicovaginal
@@ -11457,6 +11674,7 @@ vif
 vigabatrin
 vigna
 vilazodone
+vildagliptin
 villonodular
 villous
 viloxazine
@@ -11469,6 +11687,7 @@ vincristine
 vinculin
 vindesine
 vinelandii
+vinorelbine
 violaceae
 viologen
 viologens
@@ -11530,6 +11749,8 @@ vomeronasal
 vomitoria
 von
 voriconazole
+vorinostat
+vortioxetine
 vpr
 vpu
 vulgaris
@@ -11575,6 +11796,7 @@ wolfiporia
 wolinella
 wolman
 woodfordia
+wortmannin
 wuchereria
 xamoterol
 xanthenes
@@ -11663,7 +11885,10 @@ zinostatin
 ziram
 ziziphus
 zolazepam
+zoledronic
+zolpidem
 zona
+zonisamide
 zonula
 zoogloea
 zoonoses
