@@ -3,6 +3,7 @@ import requests
 import nltk
 import itertools
 import hunspell
+import string
 
 hobj = hunspell.HunSpell('en_US.dic', 'en_US.aff')
 
@@ -43,6 +44,12 @@ urls = [
 
 for url in urls:
     chemistrywords.update(extract_tags(url, u'td'))
+
+# With <ul> via IUPAC GOLD
+urls = ["https://goldbook.iupac.org/indexes/{}.html".format(letter) for letter in  string.ascii_uppercase ]
+
+for url in urls:
+    chemistrywords.update(extract_tags(url, u'ul'))
 
 
 # Remove common English words—at least, according to nltk
